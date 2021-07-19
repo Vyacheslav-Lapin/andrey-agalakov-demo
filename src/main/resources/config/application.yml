@@ -1,0 +1,15 @@
+mail:
+  credentials:
+    authMethod: basic
+    username: user
+    password: qwerty123
+#    password: qwerty
+
+abc:
+  string: abra-kadabra
+
+my-properties:
+  port: 8762
+
+server:
+  port: 80
